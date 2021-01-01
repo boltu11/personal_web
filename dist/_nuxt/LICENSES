@@ -1,5 +1,5 @@
 /*!
-  * vue-router v3.4.9
+  * vue-router v3.4.7
   * (c) 2020 Evan You
   * @license MIT
   */
@@ -8,6 +8,12 @@
  * Vue.js v2.6.12
  * (c) 2014-2020 Evan You
  * Released under the MIT License.
+ */
+
+/*!
+ * vue-carousel v0.18.0-alpha
+ * (c) 2019 todd.beauchamp@ssense.com
+ * https://github.com/ssense/vue-carousel#readme
  */
 
 /*!
